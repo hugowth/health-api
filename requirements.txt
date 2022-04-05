@@ -17,7 +17,7 @@ inflection==0.5.1; python_version >= '3.5'
 jsonschema==4.4.0; python_version >= '3.7'
 markdown==3.3.4
 pyrsistent==0.18.1; python_version >= '3.7'
-pytz==2021.3
+pytz==2022.1
 pyyaml==6.0; python_version >= '3.6'
 sqlparse==0.4.2; python_version >= '3.5'
 uritemplate==4.1.1; python_version >= '3.6'
