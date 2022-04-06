@@ -66,11 +66,11 @@
         },
         "drf-spectacular": {
             "hashes": [
-                "sha256:146e8c21dc806a20c84c687811c30163970fbf620213ab87280f7403469d80bb",
-                "sha256:8a028d251a6d0b39739ebdec487fd43ee4ecba244d8ffaaac43ff06430728dd8"
+                "sha256:1d6bf33f57ec7d973a7a29a4976fab602333e0bcd0ab16fd3b4cd1e7b427613d",
+                "sha256:229c3dcc5f88275e4742078d4003638970db5382caa16d53c0b3b42b62b1c034"
             ],
             "index": "pypi",
-            "version": "==0.17.1"
+            "version": "==0.22.0"
         },
         "importlib-metadata": {
             "hashes": [
